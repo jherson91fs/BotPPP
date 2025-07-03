@@ -9,7 +9,7 @@ from telegram_bot import (
     MENU, NOMBRE, CODIGO, DNI, EMPRESA, RUC_EMPRESA, DIRECCION
 )
 
-TOKEN = os.environ.get("TELEGRAM_TOKEN", "TU_TOKEN_AQUI")
+TOKEN = "7364353585:AAFvGKyxzg6UULJoDmhS2rwVTOPdGfOsPoY"
 bot = Bot(token=TOKEN)
 
 app = Flask(__name__)
