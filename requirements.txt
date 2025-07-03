@@ -1,0 +1,6 @@
+Flask
+python-telegram-bot
+mysql-connector-python
+boto3
+reportlab
+python-dotenv
